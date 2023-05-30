@@ -29,13 +29,13 @@
           },
           {
             "tag": "flavors",
-            "patterns": ["Apakah kopi punya rasa-rasa lain?", "Beritahu saya tentang rasa kopi", "Rasa apa saja yang bisa saya temukan di kopi?"],
+            "patterns": ["Apakah kopi punya rasa-rasa lain?", "Beritahu saya tentang rasa kopi", "Rasa apa saja yang bisa saya temukan di kopi?", "Rasa kopi ada apa saja?", "Apa saja rasa kopi?"],
             "responses": ["Kopi bisa punya beberapa hint rasa, seperti cokelat, karamel, buah, ataupun kacang-kacangan. Berikut adalah tautan yang bisa memberikan kamu informasi lebih lengkap! ","Rasa kopi bisa dipengaruhi oleh teknik brewing nya, atau level roast nya, dan juga oleh jenis beans nya. Berikut adalah tautan-tautan yang bisa memberi kamu informasi lebih jauh"],
             "links": []
           },
           {
             "tag": "caffeine",
-            "patterns": ["Berapa tinggi kafein di kopi?", "Tingkatan kafein di kopi", "Apakah kopi memiliki kafein yang tinggi?"],
+            "patterns": ["Berapa tinggi kafein di kopi?", "Tingkatan kafein di kopi", "Apakah kopi memiliki kafein yang tinggi?","Kafein di kopi kira-kira ada berapa ya?"],
             "responses": ["Kafein di dalam kopi bisa beragam, dipengaruhi oleh jenis beans yang digunakan ataupun metode pengolahannya. Untuk informasi lebih lengkap, kamu bisa cek tautan-tautan berikut", "Rata-rata kopi memiliki kafein sebanyak 95mg. Berikut adalah tautan yang memiliki informasi lebih lengkap mengenai hal tersebut. Semoga membantu!"],
             "links": []
           },
