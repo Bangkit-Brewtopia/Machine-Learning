@@ -2,7 +2,7 @@
         "intents": [
           {
             "tag": "greeting",
-            "patterns": ["Hi", "Halo!", "Ada orang kah?", "Salam kenal!", "Halo, aku .....", "P", "Assalamualaikum"],
+            "patterns": ["Hi", "Halo!", "Ada orang kah?", "Salam kenal!", "Halo, aku .....", "P", "Assalamualaikum","Hai","hey","heyho","Hey"],
             "responses": ["Halo, saya Chatbot!", "Haiiii! Adakah yang bisa saya bantu?", "Halo, apa ada yang bisa saya bantu?"]
           },
           {
