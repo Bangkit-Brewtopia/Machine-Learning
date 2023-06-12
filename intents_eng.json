@@ -2,47 +2,129 @@
     "intents": [
       {
         "tag": "greeting",
-        "patterns": ["Hi", "Halo!", "Ada orang kah?", "Salam kenal!", "Halo, aku .....", "P", "Assalamualaikum","Hai","hey","heyho","Hey"],
-        "responses": ["Halo, saya Chatbot!", "Haiiii! Adakah yang bisa saya bantu?", "Halo, apa ada yang bisa saya bantu?"]
+        "patterns": [
+          "Hi",
+          "Hello!",
+          "Is anybody here?",
+          "Assalamualaikum",
+          "Hai",
+          "hey",
+          "heyho",
+          "Hey"
+        ],
+        "responses": [
+          "Hello, I'm BrewChat!",
+          "Hey! May I help you?",
+          "Oh yeah it's me here, may I help you?",
+          "Hello, how can I assist you today?"
+        ]
       },
       {
         "tag": "goodbye",
-        "patterns": ["Bye", "Dadah", "Sampai jumpa!", "See you later", "Dah"],
-        "responses": ["See you later, terima kasih sudah mau mampir!", "Byebyee!", "Bye! Come back again soon yaa"]
+        "patterns": [
+          "Bye",
+          "Okay",
+          "See you later",
+          "Byebye",
+          "Goodbye"
+        ],
+        "responses": [
+          "Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!",
+          "Byebyee!",
+          "Bye! You can come back anytime you want.",
+          "Okay. Have a great day."
+        ]
       },
       {
         "tag": "thanks",
-        "patterns": ["Thanks", "Thank you", "Terima kasih!", "Makasih","Terimakasih","thankyou"],
-        "responses": ["Happy to help!", "Any time!", "My pleasure", "Sama-sama, senang bisa membantu"]
+        "patterns": [
+          "Thanks",
+          "Thank you",
+          "Thank you very much",
+          "thankyou",
+          "Thanks for your information",
+          "Thank you for your information"
+        ],
+        "responses": [
+          "Happy to help!",
+          "Any time!",
+          "My pleasure",
+          "Your welcome",
+          "Your welcome, happy to help you anytime :)"
+        ]
       },
       {
         "tag": "types",
-        "patterns": ["Ada apa sih jenis kopi?", "Jenis kopi di Indonesia ada apa aja?", "Jenis kopi ada apa aja?"],
-        "responses": ["Berdasarkan hal yang kamu tanyakan, saya menemukan tautan-tautan berikut yang bisa membantu","Hmmmm....ini adalah tautan-tautan yang saya kira bisa membantu kamu","Berdasarkan pertanyaan kamu, saya menemukan tautan-tautan berikut"],
+        "patterns": [
+          "What type of coffee do we have in Indonesia?",
+          "What type of coffee that currently popular?",
+          "What was the most delicious type of coffee?",
+          "What was the most popular type of coffee?"
+        ],
+        "responses": [
+          "Based on your quesion about type of coffee, we find some links that you can read for reference",
+          "Hmmmm.... maybe these link can help you to find the answer",
+          "You can check out the link that I find on below",
+          "Check the link below. Hope it helps you"
+        ],
         "links": []
       },
       {
         "tag": "brewing",
-        "patterns": ["Bagaimana cara brew kopi?", "Bagaimana teknik brew kopi?", "Bagaimana cara membuat kopi yang baik?"],
-        "responses": ["Yuk, coba cek tautan-tautan berikut yang saya temukan","Cek tautan-tautan berikut, semoga bisa membantu!","Hmmm.... saya menemukan tautan yang bisa membantu, yuk dicek!"],
+        "patterns": [
+          "There is any way I can do to brew my on coffee beans at home?",
+          "How was the technique that I can use to brewing the coffee",
+          "How to create a delicious coffee?",
+          "How to create a good coffee at home?"
+        ],
+        "responses": [
+          "You can check out the link that I find on below",
+          "Check the link below. Hope it helps you",
+          "Hmmm.... maybe these link can help you to find the answer"
+        ],
         "links": []
       },
       {
         "tag": "flavors",
-        "patterns": ["Apakah kopi punya rasa-rasa lain?", "Beritahu saya tentang rasa kopi", "Rasa apa saja yang bisa saya temukan di kopi?", "Rasa kopi ada apa saja?", "Apa saja rasa kopi?"],
-        "responses": ["Kopi bisa punya beberapa hint rasa, seperti cokelat, karamel, buah, ataupun kacang-kacangan. Berikut adalah tautan yang bisa memberikan kamu informasi lebih lengkap! ","Rasa kopi bisa dipengaruhi oleh teknik brewing nya, atau level roast nya, dan juga oleh jenis beans nya. Berikut adalah tautan-tautan yang bisa memberi kamu informasi lebih jauh"],
+        "patterns": [
+          "Is coffee only have one flavors?",
+          "What flavors that is barely to see in a coffee?",
+          "What are the familiar flavors contained in coffee?",
+          "How many coffee flavors?"
+        ],
+        "responses": [
+          "A Coffee can have a different flavor such as chocolate, caramel, fruit, or nuts. Maybe these links can help you to find out about it",
+          "The flavor of coffee can be affected by the beans that are used, the brewing technique, or the roast level of the coffee. For more information, you can visit these links below."
+        ],
         "links": []
       },
       {
         "tag": "caffeine",
-        "patterns": ["Berapa tinggi kafein di kopi?", "Tingkatan kafein di kopi", "Apakah kopi memiliki kafein yang tinggi?","Kafein di kopi kira-kira ada berapa ya?"],
-        "responses": ["Kafein di dalam kopi bisa beragam, dipengaruhi oleh jenis beans yang digunakan ataupun metode pengolahannya. Untuk informasi lebih lengkap, kamu bisa cek tautan-tautan berikut", "Rata-rata kopi memiliki kafein sebanyak 95mg. Berikut adalah tautan yang memiliki informasi lebih lengkap mengenai hal tersebut. Semoga membantu!"],
+        "patterns": [
+          "How much caffeine in a cup of coffee?",
+          "Did coffee have high caffeine?",
+          "What kind of coffee that has high caffeine?",
+          "How to know how much caffeine is in a cup of coffee?"
+        ],
+        "responses": [
+          "Caffeine in a cup of coffee can be diverse, it depends on the type of coffee or the way the coffee is being created. For more information, you can visit the links below",
+          "You can know how much caffeine in a cup by visit this links below. I hope it helps."
+        ],
         "links": []
       },
       {
         "tag": "brands",
-        "patterns": ["Apa brand kopi yang terkenal di Indonesia?", "Apa brand kopi yang disukai di Indonesia?", "Sebutin dong beberapa brand kopi terkenal yang ada di Indonesia"],
-        "responses": ["Banyak sekali brand kopi yang terkenal di Indonesia. Namun jika harus memilih, ini beberapa tautan tentang beberapa brand kopi yang ada di Indonesia yang mungkin kamu suka.", "Menarik. Saya mencoba mencari tahu beberapa brand kopi terkenal yang ada di Indonesia, mungkin kamu bisa cari tau beberapa brand yang tautannya ada di bawah."],
+        "patterns": [
+          "What is the most famous coffee brands?",
+          "What is the most famous coffee brands in Indonesia?",
+          "Is there any famous coffee brands in Indonesia to find coffee beans?",
+          "Is there any famous coffee brands to find coffee beans?"
+        ],
+        "responses": [
+          "Wow, I can't choose only one specific brand. Because it's so many famous coffee brand in Indonesia that you have to taste it. But, you can see this link if you are interested.",
+          "I try to figure it out some, and there is some brands that you can see by click the link below.",
+          "TThere is some brands and more information about the brand that you can see by click the link below."
+        ],
         "links": []
       }
     ]
