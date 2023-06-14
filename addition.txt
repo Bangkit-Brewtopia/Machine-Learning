@@ -1,11 +1,23 @@
 TAMBAHAKN KETERANGAN DI BAWAH HASIL PREDIKSI
 
+INDONESIA
 DEFECT
 Defect pada biji kopi bisa disebabkan oleh berbagai faktor, seperti alam, pemrosesan, tempat penyimpanan, dan lain - lain. Tindakan yang bisa kamu lakukan kepada biji kopi yang defect antara lain:
 - Kamu bisa memisahkan biji kopi tersebut, supaya tidak digunakan untuk membuat kopi (saran terbaik)
-- Kamu masih bisa memanggang(roast) biji kopi tersebut, namun rasa dari kopi akan sedikit berpengaruh,
+- Kamu masih bisa memprosesnya, namun rasa dari kopi akan sedikit berpengaruh,
 
 Keputusan bisa kamu ambil sesuai kondisi yang dimiliki oleh masing - masing. Apabila biji kopi yang dimiliki kurang banyak untuk menjadi suatu kopi, maka kamu bisa menambahkan beberapa biji kopi yang defect, namun dengan warna biji kopi yang tidak jauh berbeda dengan biji kopi yang lainnya. 
 
 NORMAL
 Biji kopi berkualitas baik akan memiliki rasa yang sesuai pula. Kamu bisa langusung memproses biji kopi ini ke proses selanjutnya.
+
+ENGLISH
+DEFECT
+Coffee beans that classify with DEFECT was caused by many factor, such as nature, processing of the beans, the warehouse of the beans, etc. The thing that you can do for the coffee beans that has defect:
+- You can sort out that coffee beans, so the coffee beans was not included for creating the coffee (recommended)
+- You can still process it, but it will have little effect on the taste of the coffee 
+
+The desicion is back to yourself. Because, everyone maybe have a different amount of coffee beans. So, if you have a little amount of coffee beans, you can still take some of the defect coffee beans, but with the color of the coffee beans was slightly different from the normal one.
+
+NORMAL
+Coffee beans that classify with NORMAL will have a good taste as long as you don't make a mistake while creating the coffee.
