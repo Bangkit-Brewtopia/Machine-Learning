@@ -10,13 +10,14 @@
           "Hai",
           "hey",
           "heyho",
-          "Hey"
+          "Hey",
+          "Who are you?"
         ],
         "responses": [
           "Hello, I'm BrewChat!",
-          "Hey! May I help you?",
-          "Oh yeah it's me here, may I help you?",
-          "Hello, how can I assist you today?"
+          "Hey, I'm BrewChat! May I help you?",
+          "Oh yeah it's BrewChat here, may I help you?",
+          "Hello it's BrewChat here, how can I assist you today?"
         ]
       },
       {
@@ -54,6 +55,22 @@
         ]
       },
       {
+        "tag": "introduction",
+        "patterns": [
+          "What is this?",
+          "What you can do?",
+          "What you can do for me?",
+          "What was the function of this feature?",
+          "What can this chatbot do?",
+          "What was the function of this chatbot?"
+        ],
+        "responses": [
+          "I'm BrewChat, a chatbot that build for Brewtopia. I can give you some information about coffee. You can ask, and I will rapidly answer it for you.",
+          "I'm BrewChat, and I can give you any information related to coffee here. I will very pleased to answer it for you.",
+          "I'm BrewChat. Here, you can ask anything related to coffee, and I will quickly answer it for you."
+        ]
+      },
+      {
         "tag": "types",
         "patterns": [
           "What type of coffee do we have in Indonesia?",
@@ -62,7 +79,7 @@
           "What was the most popular type of coffee?"
         ],
         "responses": [
-          "Based on your quesion about type of coffee, we find some links that you can read for reference",
+          "Based on your quesion, we find some links that you can read for reference",
           "Hmmmm.... maybe these link can help you to find the answer",
           "You can check out the link that I find on below",
           "Check the link below. Hope it helps you"
