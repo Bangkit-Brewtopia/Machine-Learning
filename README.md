@@ -6,8 +6,8 @@ This is a machine learning model that builds for the quality check of the coffee
 
 The model was trained by **5650 image data** with a split of **80% training data** and **20% test data**. The model was built with Sequential API that contains 4 convolutional layers, 4 max-pool layers, and 4 Dense layers to train the model. Our model has pretty good accuracy on train data and test data, with the result of the training data is **95%** on training data and **91%** on the test data. 
 
-Classes: **Normal**, **Defect**
-Location: https://github.com/Bangkit-Brewtopia/Machine-Learning/tree/coffee-quality
+-Classes: **Normal**, **Defect**
+-Location: https://github.com/Bangkit-Brewtopia/Machine-Learning/tree/coffee-quality
 
 
 ## Chatbot ✔
@@ -16,8 +16,8 @@ We build a chatbot called **BrewChat** that can be used by users for getting mor
 
 The model was trained by 80 data objects of patterns and responses that classify into nine classes. When the user sends the messages, the model will encode them and then classify them based on the classes that are already defined. After it, the model will give the responses of it based on the data from the response object.
 
-Classes: **greeting**,**goodbye**,**thanks**,**introduction**,**types**,**brewing**,**flavors**,**caffeine**,**brands**
-File location: https://github.com/Bangkit-Brewtopia/Machine-Learning/tree/chatbot
+- Classes: **greeting**,**goodbye**,**thanks**,**introduction**,**types**,**brewing**,**flavors**,**caffeine**,**brands**
+- File location: https://github.com/Bangkit-Brewtopia/Machine-Learning/tree/chatbot
 
 
 
