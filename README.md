@@ -16,7 +16,7 @@ We build a chatbot called **BrewChat** that can be used by users for getting mor
 
 The model was trained by 80 data objects of patterns and responses that classify into nine classes. When the user sends the messages, the model will encode them and then classify them based on the classes that are already defined. After it, the model will give the responses of it based on the data from the response object.
 
-- Classes: **greeting**,**goodbye**,**thanks**,**introduction**,**types**,**brewing**,**flavors**,**caffeine**,**brands**
+- Classes: **greeting**, **goodbye**, **thanks**, **introduction**, **types**, **brewing**, **flavors**, **caffeine**, **brands**
 - File location: https://github.com/Bangkit-Brewtopia/Machine-Learning/tree/chatbot
 
 
